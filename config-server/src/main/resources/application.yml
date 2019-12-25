@@ -9,7 +9,7 @@ spring:
         git: #配置存储配置信息的Git仓库
           uri: https://github.com/leo32/cwg.git
           username: 24127063@qq.com
-          password: Cwgleo321
+          password: cwg321
           clone-on-start: true #开启启动时直接从git获取配置
 eureka:
   client:
