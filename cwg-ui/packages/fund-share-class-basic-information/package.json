@@ -1,0 +1,9 @@
+{
+    "name": "fund-share-class-basic-information",
+    "version": "",
+    "main": "build/fund-share-class-basic-information.js",
+    "repository": "npm",
+    "dependencies": {
+        "jquery": "^3.4.1"
+    }
+}

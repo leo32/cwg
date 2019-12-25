@@ -1,0 +1,17 @@
+{
+    "name": "cwg-ui",
+    "description": "cwg-ui",
+    "version": "1.0.0",
+    "main": "",
+    "scripts": {
+        "start": "hs start"
+    },
+    "keywords": [
+        "horseshoe-cli",
+        "cwg-ui"
+    ],
+    "dependencies": {
+        "jquery": "^3.4.1",
+        "mocha": "^6.2.2"
+    }
+}

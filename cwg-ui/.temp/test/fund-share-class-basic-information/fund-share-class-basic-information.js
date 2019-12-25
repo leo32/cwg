@@ -1,0 +1,1 @@
+require("C:/Users/wchen3/AppData/Roaming/npm/node_modules/horseshoe-cli/hs/test/test-util.js");const testsContext = require.context("D:/GIT/My/cwg/cwg-ui/packages/fund-share-class-basic-information/test/specs", true, /\.js$/);testsContext.keys().forEach(testsContext);

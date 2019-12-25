@@ -1,0 +1,9 @@
+{
+    "name": "app",
+    "version": "",
+    "main": "build/app.js",
+    "repository": "npm",
+    "dependencies": {
+
+    }
+}
