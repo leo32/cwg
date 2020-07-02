@@ -24,7 +24,7 @@
 		<jest.version>5.3.3</jest.version>
 		<jjwt.version>0.9.0</jjwt.version>
 		<auth0.version>3.4.0</auth0.version>
-		<mysql-driver.version>8.0.11</mysql-driver.version>
+		<mysql-driver.version>8.0.16</mysql-driver.version>
 
 	</properties>
 
